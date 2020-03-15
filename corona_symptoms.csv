@@ -1,0 +1,1149 @@
+symptoms,fever,fatigue,pneumonia,headache,diarrheoa,cough,bone_pain
+pneumonia,0,0,1,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fatigue: fever: headache,1,1,0,1,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fatigue: fever,1,1,0,0,0,0,0
+discomfort: fever,1,0,0,0,0,0,0
+cough: dizziness,0,0,0,0,0,1,0
+cough: fatigue: fever: weakness,1,1,0,0,0,1,0
+cough: fever: weakness,1,0,0,0,0,1,0
+cough: diarrhea: fever: rhinorrhoea: sneezing,1,0,0,0,0,1,0
+anhelation: cough: fever: pleural effusion: weakness,1,0,0,0,0,1,0
+diarrhea: fever: nasal congestion: pleuritic chest pain: sore throat,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever: weak,1,0,0,0,0,0,0
+cough: fever: muscular soreness,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+chest distress: cough: expectoration: muscular soreness,0,0,0,0,0,1,0
+cough: headache,0,0,0,1,0,1,0
+fever: sneeze,1,0,0,0,0,0,0
+discomfort,0,0,0,0,0,0,0
+cough: muscular stiffness: weak,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+discomfort,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: expectoration: fever,1,0,0,0,0,1,0
+cough: fatigue: fever: sputum,1,1,0,0,0,1,0
+chest tightness: dyspnea: fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever: weak,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+pharynx,0,0,0,0,0,0,0
+muscular soreness,0,0,0,0,0,0,0
+cough: sore throat,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fatigue: fever: weakness,1,1,0,0,0,0,0
+fever: headache,1,0,0,1,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: dyspnea: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fatigue: fever,1,1,0,0,0,0,0
+chills: fever: muscle aches: other symptoms,1,0,0,0,0,0,0
+fatigue: muscle aches: sore throat,0,1,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: sore muscle: weakness,1,0,0,0,0,0,0
+fatigue: fever,1,1,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+systemic weakness: runny nose: fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: sore throat,1,0,0,0,0,0,0
+fever: muscular soreness: rigor,1,0,0,0,0,0,0
+chills: diarrhea: dyspnea: headache: lack of energy: muscle pain,0,0,0,1,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fatigue: fever,1,1,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever: pharyngalgia,1,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: discomfort: fever: other symptoms,1,0,0,0,0,1,0
+flu-like symptoms,0,0,0,0,0,0,0
+chills: cough: fatigue: fever,1,1,0,0,0,1,0
+chills: conjunctivitis: cough: fever,1,0,0,0,0,1,0
+fever: pneumonia: sore throat,1,0,1,0,0,0,0
+cough: fever: sore throat,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+asymptomatic,0,0,0,0,0,0,0
+asymptomatic,0,0,0,0,0,0,0
+asymptomatic,0,0,0,0,0,0,0
+cough: fever: shortness of breath,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: shortness breath,1,0,0,0,0,1,0
+chills: fever: headache: sore throat,1,0,0,1,0,0,0
+coughing: fever: muscle aches,1,0,0,0,0,1,0
+cough: fever: nausea,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: myalgia,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+chills: fever,1,0,0,0,0,0,0
+fever: joint pain: pneumonia,1,0,1,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever; fatigue; dry cough,1,1,0,0,0,1,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+dizziness: sore limbs,0,0,0,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever: runny nose,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+cough: fever: myalgia: rhinorrhea: sore throat,1,0,0,0,0,1,0
+chills: fever: myalgias: sore throat,1,0,0,0,0,0,0
+aching muscles: fever: pneumonia,1,0,1,0,0,0,0
+dry cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+chills: cough: joint pain,0,0,0,0,0,1,0
+cough: fever: pneumonia,1,0,1,0,0,1,0
+fever: sore throat,1,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+myalgia: rhinorrhea,0,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+acute respiratory viral infection: fever,1,0,0,0,0,0,0
+acute respiratory viral infection: fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+cough: dyspnea,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever: pharyngeal discomfort,1,0,0,0,0,0,0
+chills: headache: fever,1,0,0,1,0,0,0
+fever: sore throat: sputum,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+physical discomfort,0,0,0,0,0,0,0
+discomfort,0,0,0,0,0,0,0
+weakness,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever; cough,1,0,0,0,0,1,0
+chest tightness: fever: nausea,1,0,0,0,0,0,0
+respiratory symptoms,0,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: sore throat,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: muscle ache,1,0,0,0,0,1,0
+cough: runny nose,0,0,0,0,0,1,0
+asymptomatic,0,0,0,0,0,0,0
+asymptomatic,0,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+asymptomatic,0,0,0,0,0,0,0
+runny nose,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough: fever: sputum,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: sputum,0,0,0,0,0,1,0
+cough: sore throat: sputum,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+chills: fatigue,0,1,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever; dry cough; fatigue,1,1,0,0,0,1,0
+lesions on chest radiographs,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+chest tightness,0,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: runny nose,1,0,0,0,0,1,0
+cough: fever: runny nose,1,0,0,0,0,1,0
+cough: fever: runny nose,1,0,0,0,0,1,0
+fever: sore throat,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+no symptoms,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: diarrhoea: runny nose,0,0,0,0,0,1,0
+cough: fever: eventually showed acute left heart failure and acute coronary syndrome,1,0,0,0,0,1,0
+cough: high fever: myalgia,1,0,0,0,0,1,0
+fever: myalgia,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: shortness of breath,1,0,0,0,0,1,0
+fatigue,0,1,0,0,0,0,0
+fever;sore throat; fatigue; diarrhea,1,1,0,0,0,0,0
+fever; fatigue,1,1,0,0,0,0,0
+fever; sore throat;fatigue;vomiting,1,1,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+chest tightness: fever,1,0,0,0,0,0,0
+fever: joint pain: muscle soreness,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+chills: fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+chest pain: nasal congestion,0,0,0,0,0,0,0
+cough: muscle soreness: sweating,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+pneumonitis,0,0,0,0,0,0,0
+cough: fever: shortness of breath,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+fever: myalgia: shortness of breath,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever: pneumonia: respiratory distress,1,0,1,0,0,1,0
+fever: runny nose,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+chills: fever: runny nose: sore throat: wheezing,1,0,0,0,0,0,0
+cough: respiratory problems,0,0,0,0,0,1,0
+nausea: vomiting,0,0,0,0,0,0,0
+fever: headache,1,0,0,1,0,0,0
+fever,1,0,0,0,0,0,0
+fever: full body slump,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever: cough,1,0,0,0,0,1,0
+fever: cough,1,0,0,0,0,1,0
+fever: dry throat: sore throat,1,0,0,0,0,0,0
+fever; runny nose,1,0,0,0,0,0,0
+dry throat; sore throat; fatigue,0,1,0,0,0,0,0
+headache; dry mouth,0,0,0,1,0,0,0
+fever; dry mouth; throat discomfort,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+pharyngeal discomfort,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+diarrhea,0,0,0,0,0,0,0
+cough; throat discomfort,0,0,0,0,0,1,0
+Pharyngeal dryness,0,0,0,0,0,0,0
+cough; sputum; fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+dry throat; dry cough,0,0,0,0,0,1,0
+chest pain: cough,0,0,0,0,0,1,0
+cough: chest tightness: dry mouth,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever; cough; fatigue; nausea,1,1,0,0,0,1,0
+fever; cough,1,0,0,0,0,1,0
+fever; fatigue,1,1,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: sputum,1,0,0,0,0,1,0
+nausea: vomiting,0,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: sore throat,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough: diarrheoa: vomiting,0,0,0,0,1,1,0
+chills: cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fatigue: fever,1,1,0,0,0,1,0
+fever: severe pneumonia,1,0,1,0,0,0,0
+eye irritation: fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever: sore throat,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+dyspnea: fever,1,0,0,0,0,0,0
+cough: difficulty breathing: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever: headache: runny nose,1,0,0,1,0,0,0
+cough: runny nose,0,0,0,0,0,1,0
+transient fatigue,0,1,0,0,0,0,0
+fever (38 ° C),1,0,0,0,0,0,0
+37.1 ° C: mild coughing,0,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+abdominal pain: pulmonary inflammation,0,0,0,0,0,0,0
+Sore throat,0,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+feeling ill: coughing,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+anorexia: fatigue,0,1,0,0,0,0,0
+abdominal pain: diarrhea: fever: general malaise,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever: malaise,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+poor physical condition,0,0,0,0,0,0,0
+cough: fatigue: fever,1,1,0,0,0,1,0
+cough: shortness of breath,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+yes,0,0,0,0,0,0,0
+fever 38.3,1,0,0,0,0,0,0
+fever (39.5 ℃),1,0,0,0,0,0,0
+fever 37.7℃,1,0,0,0,0,0,0
+fever 37.7℃,1,0,0,0,0,0,0
+fever 37.5℃,1,0,0,0,0,0,0
+anorexia,0,0,0,0,0,0,0
+nausea: cough: pneumonia: fever,1,0,1,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever 38.2 ℃: cough,1,0,0,0,0,1,0
+fever (38 ° C),1,0,0,0,0,0,0
+fever 37 C,1,0,0,0,0,0,0
+malaise: headache,0,0,0,1,0,0,0
+fever (37 ℃): breathing difficulty,1,0,0,0,0,0,0
+fever (37.5 ℃: then 38 ℃): cough: malaise,1,0,0,0,0,1,0
+sore throat: Cough: fever (37 ℃),1,0,0,0,0,0,0
+difficulty breathing,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: shortness of breath: pneumonia,1,0,1,0,0,0,0
+severe dyspnea,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: cough,1,0,0,0,0,1,0
+nausea,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever; fatigue,1,1,0,0,0,0,0
+chest tightness; fatigue,0,1,0,0,0,0,0
+cough; fever,1,0,0,0,0,1,0
+fever; nasal congestion; runny nose; sore throat; cough,1,0,0,0,0,1,0
+fever 39.3,1,0,0,0,0,0,0
+fever 38,1,0,0,0,0,0,0
+fever 38,1,0,0,0,0,0,0
+fever: cough,1,0,0,0,0,1,0
+no respiratory symptoms: esophageal reflux,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough; sputum; fever,1,0,0,0,0,1,0
+dry cough,0,0,0,0,0,1,0
+cough; sore body; cold,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+flu-like symptoms,0,0,0,0,0,0,0
+acute pharyngitis,0,0,0,0,0,0,0
+sore throat,0,0,0,0,0,0,0
+fever: sore throat: mild cough,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: cough,1,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+low fever 37.0 ℃,1,0,0,0,0,0,0
+low fever (37.4 ℃),1,0,0,0,0,0,0
+low fever (37.2 ° C); cough,1,0,0,0,0,1,0
+fever (39.5 ℃): malaise,1,0,0,0,0,0,0
+sore throat; fever: nasal discharge,1,0,0,0,0,0,0
+fever (37.4 ° C): pneumonia,1,0,1,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever (37.8 ℃): cough,1,0,0,0,0,1,0
+fever (38-39 ° C): malaise,1,0,0,0,0,0,0
+fever: cough,1,0,0,0,0,1,0
+fever 38.1 ℃ Cough: malaise: anorexia,1,0,0,0,0,0,0
+Discharge: cough: sore throat: chest pain,0,0,0,0,0,1,0
+fever: cough: phlegm: dyspnea,1,0,0,0,0,1,0
+fever: cough: phlegm: dyspnea,1,0,0,0,0,1,0
+fever: cough: phlegm,1,0,0,0,0,1,0
+fever 37.8 ℃ : sore throat,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+rever: cough,0,0,0,0,0,1,0
+fever 37.1 ℃ : couh,1,0,0,0,0,0,0
+fever 38.3 ℃ : cough,1,0,0,0,0,1,0
+malaise: fever (37 ℃); headache: toothache: pneumonia,1,0,1,1,0,0,0
+Sore throat: chills,0,0,0,0,0,0,0
+fever 38,1,0,0,0,0,0,0
+fever: cough: phlegm,1,0,0,0,0,1,0
+Fever: cough: headache,0,0,0,1,0,1,0
+fever 37.2,1,0,0,0,0,0,0
+cough: malaise,0,0,0,0,0,1,0
+sore throat: fever (38-39 ℃),1,0,0,0,0,0,0
+fatigue: fever (38 ℃),1,1,0,0,0,0,0
+fever (38.3 ℃),1,0,0,0,0,0,0
+vomiting: cough: fever (38.2 ℃): sore throat,1,0,0,0,0,1,0
+fever (39 ° C): joint pain,1,0,0,0,0,0,0
+fever (37.4 ℃): cough,1,0,0,0,0,1,0
+fever (40.3 ℃): Headache: malaise: joint pain,1,0,0,0,0,0,0
+fever (39.9 ℃): cough,1,0,0,0,0,1,0
+fever (39.3 ℃): cough,1,0,0,0,0,1,0
+cough: fever (38.3 ℃): joint pain,1,0,0,0,0,1,0
+Cough: fever (38 ℃),1,0,0,0,0,0,0
+Fever (37.4 ° C): malaise: sore throa,0,0,0,0,0,0,0
+cough: sore throat,0,0,0,0,0,1,0
+Fever (38 ° C),0,0,0,0,0,0,0
+Fever (38.1 ° C): cough: headache.,0,0,0,1,0,1,0
+no serious symptoms,0,0,0,0,0,0,0
+similar to a respiratory infection,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+chills: headache: fatigue,0,1,0,1,0,0,0
+fever,1,0,0,0,0,0,0
+cough: sore throat,0,0,0,0,0,1,0
+cough: phlegm: fever 37 degrees,1,0,0,0,0,1,0
+fever 39.0 ℃,1,0,0,0,0,0,0
+fever (38.0 ℃): Fatigue: difficulty walking,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever (38.0 ℃),1,0,0,0,0,0,0
+chills:  fever (38 ℃): malaise,1,0,0,0,0,0,0
+Sputum: cough symptoms: fever (37 ℃): cough: breathing difficulty,1,0,0,0,0,1,0
+fever (37.0 ℃): fever (38.7 ℃),1,0,0,0,0,0,0
+fever (37.5 ℃ ～ 38.0 ℃),1,0,0,0,0,0,0
+fever and cough,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever (38 ° C),1,0,0,0,0,0,0
+fever (38 ° C),1,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+sore throat,0,0,0,0,0,0,0
+respiratory complaints,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+acute respiratory viral infection (ARVI),0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+Hefei City,0,0,0,0,0,0,0
+Hefei City,0,0,0,0,0,0,0
+Lu'an City,0,0,0,0,0,0,0
+Fuyang City,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Beijing,0,0,0,0,0,0,0
+Chongqing City District,0,0,0,0,0,0,0
+Chongqing City District,0,0,0,0,0,0,0
+Chongqing City District,0,0,0,0,0,0,0
+Chongqing City District,0,0,0,0,0,0,0
+Chongqing County,0,0,0,0,0,0,0
+Chongqing County,0,0,0,0,0,0,0
+Chongqing County,0,0,0,0,0,0,0
+Chongqing County,0,0,0,0,0,0,0
+Chongqing County,0,0,0,0,0,0,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+Fuzhou City,0,0,0,0,0,0,0
+Fuzhou City,0,0,0,0,0,0,0
+Ningde City,0,0,0,0,0,0,0
+Quanzhou City,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+fever: chills: muscle: joint pain and cough,1,0,0,0,0,1,0
+mild,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+mildShenzhen City,0,0,0,0,0,0,0
+Shenzhen City,0,0,0,0,0,0,0
+Shenzhen City,0,0,0,0,0,0,0
+Shenzhen City,0,0,0,0,0,0,0
+Shenzhen City,0,0,0,0,0,0,0
+Shenzhen City,0,0,0,0,0,0,0
+Shenzhen City,0,0,0,0,0,0,0
+Zhanjiang City,0,0,0,0,0,0,0
+Zhanjiang City,0,0,0,0,0,0,0
+Zhaoqing City,0,0,0,0,0,0,0
+Yangjiang City,0,0,0,0,0,0,0
+Yangjiang City,0,0,0,0,0,0,0
+Yangjiang City,0,0,0,0,0,0,0
+Qingyuan City,0,0,0,0,0,0,0
+Guangzhou City,0,0,0,0,0,0,0
+Guangzhou City,0,0,0,0,0,0,0
+Zhuhai City,0,0,0,0,0,0,0
+Zhuhai City,0,0,0,0,0,0,0
+Zhuhai City,0,0,0,0,0,0,0
+Zhuhai City,0,0,0,0,0,0,0
+Foshan City,0,0,0,0,0,0,0
+Foshan City,0,0,0,0,0,0,0
+Foshan City,0,0,0,0,0,0,0
+Foshan City,0,0,0,0,0,0,0
+Foshan City,0,0,0,0,0,0,0
+Shaoguan City,0,0,0,0,0,0,0
+Huizhou City,0,0,0,0,0,0,0
+Huizhou City,0,0,0,0,0,0,0
+Huizhou City,0,0,0,0,0,0,0
+Huizhou City,0,0,0,0,0,0,0
+Zhongshan City,0,0,0,0,0,0,0
+asymptomatic: afebrile,0,0,0,0,0,0,0
+fever: cough,1,0,0,0,0,1,0
+flu-like symptoms,0,0,0,0,0,0,0
+fever: chills,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever:discmfort,1,0,0,0,0,0,0
+headache,0,0,0,1,0,0,0
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough,0,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+cough fever,1,0,0,0,0,1,0
+fever: headache: malaise: sore throat: cough,1,0,0,1,0,1,0
+fever: sore throat: cough: shortness of breath,1,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+cough: sore throat: body aches: fever,1,0,0,0,0,1,0
+dry cough: runny nose: shortness of breath: headache,0,0,0,1,0,1,0
+cough: body aches: chills,0,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+fever: runny nose: body pain: diarrhea,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever: cough: nasal congestion,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+mild symptoms,0,0,0,0,0,0,0
+cough: fever: shortness of breath,1,0,0,0,0,1,0
+cough: fever: shortness of breath,1,0,0,0,0,1,0
+lethargy; dry cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever: nausea: digestive discomfort,1,0,0,0,0,0,0
+aggressive pulmonary symptomatology,0,0,0,0,0,0,0
+symptoms,0,0,0,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fatigue: fever: headache,1,1,0,1,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+respiratory symptoms,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: respiratory symptoms,1,0,0,0,0,0,0
+fever: respiratory symptoms,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fatigue: fever,1,1,0,0,0,0,0
+discomfort: fever,1,0,0,0,0,0,0
+cough: fever: headache: muscular soreness: weak,1,0,0,1,0,1,0
+cough: dizziness,0,0,0,0,0,1,0
+cough: fatigue: fever: weakness,1,1,0,0,0,1,0
+cough: fever: weakness,1,0,0,0,0,1,0
+cough: diarrhea: fever: rhinorrhoea: sneezing,1,0,0,0,0,1,0
+anhelation: cough: fever: pleural effusion: weakness,1,0,0,0,0,1,0
+diarrhea: fever: nasal congestion: pleuritic chest pain: sore throat,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever: weak,1,0,0,0,0,0,0
+cough: fever: muscular soreness,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+chest distress: cough: expectoration: muscular soreness,0,0,0,0,0,1,0
+cough: headache,0,0,0,1,0,1,0
+fever: sneeze,1,0,0,0,0,0,0
+discomfort,0,0,0,0,0,0,0
+cough: muscular stiffness: weak,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+discomfort,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+chest distress: dyspnea,0,0,0,0,0,0,0
+cough: expectoration: fever,1,0,0,0,0,1,0
+cough: fatigue: fever: sputum,1,1,0,0,0,1,0
+chest tightness: dyspnea: fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever: weak,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: soreness,1,0,0,0,0,1,0
+pharynx,0,0,0,0,0,0,0
+muscular soreness,0,0,0,0,0,0,0
+cough: sore throat,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fatigue: fever: weakness,1,1,0,0,0,0,0
+cough: fever: runny nose,1,0,0,0,0,1,0
+fever: headache,1,0,0,1,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: dyspnea: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fatigue: fever,1,1,0,0,0,0,0
+chills: fever: muscle aches: other symptoms,1,0,0,0,0,0,0
+fatigue: muscle aches: sore throat,0,1,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever: sore muscle: weakness,1,0,0,0,0,0,0
+fever: sore muscle: weakness,1,0,0,0,0,0,0
+fatigue: fever,1,1,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+systemic weakness: runny nose: fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: sore throat,1,0,0,0,0,0,0
+fever: muscular soreness: rigor,1,0,0,0,0,0,0
+chills: diarrhea: dyspnea: headache: lack of energy: muscle pain,0,0,0,1,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fatigue: fever,1,1,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever: pharyngalgia,1,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: discomfort: fever: other symptoms,1,0,0,0,0,1,0
+flu-like symptoms,0,0,0,0,0,0,0
+chills: cough: fatigue: fever,1,1,0,0,0,1,0
+chills: conjunctivitis: cough: fever,1,0,0,0,0,1,0
+fever: pneumonia: sore throat,1,0,1,0,0,0,0
+cough: fever: sore throat,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+asymptomatic,0,0,0,0,0,0,0
+asymptomatic,0,0,0,0,0,0,0
+asymptomatic,0,0,0,0,0,0,0
+cough: fever: shortness of breath,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough: fever: shortness breath,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+chills: fever: headache: sore throat,1,0,0,1,0,0,0
+coughing: fever: muscle aches,1,0,0,0,0,1,0
+cough: fever: nausea,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: myalgia,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+chills: fever,1,0,0,0,0,0,0
+fever: joint pain: pneumonia,1,0,1,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever; fatigue; dry cough,1,1,0,0,0,1,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+dizziness: sore limbs,0,0,0,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever: runny nose,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+pneumonia,0,0,1,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+cough: fever: myalgia: rhinorrhea: sore throat,1,0,0,0,0,1,0
+chills: fever: myalgias: sore throat,1,0,0,0,0,0,0
+aching muscles: fever: pneumonia,1,0,1,0,0,0,0
+dry cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+chills: cough: joint pain,0,0,0,0,0,1,0
+cough: fever: pneumonia,1,0,1,0,0,1,0
+fever: sore throat,1,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+myalgia: rhinorrhea,0,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+acute respiratory viral infection: fever,1,0,0,0,0,0,0
+acute respiratory viral infection: fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+cough: dyspnea,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever: pharyngeal discomfort,1,0,0,0,0,0,0
+chills: headache: fever,1,0,0,1,0,0,0
+fever: sore throat: sputum,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+physical discomfort,0,0,0,0,0,0,0
+discomfort,0,0,0,0,0,0,0
+weakness,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever; cough,1,0,0,0,0,1,0
+chest tightness: fever: nausea,1,0,0,0,0,0,0
+respiratory symptoms,0,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: sore throat,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: muscle ache,1,0,0,0,0,1,0
+cough: runny nose,0,0,0,0,0,1,0
+asymptomatic,0,0,0,0,0,0,0
+asymptomatic,0,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+asymptomatic,0,0,0,0,0,0,0
+runny nose,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough: fever: sputum,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: sputum,0,0,0,0,0,1,0
+cough: sore throat: sputum,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+chills: fatigue,0,1,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever; dry cough; fatigue,1,1,0,0,0,1,0
+lesions on chest radiographs,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+chest tightness,0,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: runny nose,1,0,0,0,0,1,0
+cough: fever: runny nose,1,0,0,0,0,1,0
+cough: fever: runny nose,1,0,0,0,0,1,0
+fever: sore throat,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+no symptoms,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: diarrhoea: runny nose,0,0,0,0,0,1,0
+cough: fever: eventually showed acute left heart failure and acute coronary syndrome,1,0,0,0,0,1,0
+cough: high fever: myalgia,1,0,0,0,0,1,0
+fever: myalgia,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: shortness of breath,1,0,0,0,0,1,0
+fatigue,0,1,0,0,0,0,0
+fever;sore throat; fatigue; diarrhea,1,1,0,0,0,0,0
+fever; fatigue,1,1,0,0,0,0,0
+fever; sore throat;fatigue;vomiting,1,1,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+chest tightness: fever,1,0,0,0,0,0,0
+fever: joint pain: muscle soreness,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+chills: fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+chest pain: nasal congestion,0,0,0,0,0,0,0
+cough: muscle soreness: sweating,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+pneumonitis,0,0,0,0,0,0,0
+cough: fever: shortness of breath,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+pneumonitis,0,0,0,0,0,0,0
+fever: myalgia: shortness of breath,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever: pneumonia: respiratory distress,1,0,1,0,0,1,0
+fever: runny nose,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+chills: fever: runny nose: sore throat: wheezing,1,0,0,0,0,0,0
+cough: respiratory problems,0,0,0,0,0,1,0
+nausea: vomiting,0,0,0,0,0,0,0
+fever: headache,1,0,0,1,0,0,0
+fever,1,0,0,0,0,0,0
+fever: full body slump,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever: cough,1,0,0,0,0,1,0
+fever: cough,1,0,0,0,0,1,0
+fever: dry throat: sore throat,1,0,0,0,0,0,0
+fever; runny nose,1,0,0,0,0,0,0
+dry throat; sore throat; fatigue,0,1,0,0,0,0,0
+headache; dry mouth,0,0,0,1,0,0,0
+fever; dry mouth; throat discomfort,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+pharyngeal discomfort,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+diarrhea,0,0,0,0,0,0,0
+cough; throat discomfort,0,0,0,0,0,1,0
+Pharyngeal dryness,0,0,0,0,0,0,0
+cough; sputum; fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+dry throat; dry cough,0,0,0,0,0,1,0
+chest pain: cough,0,0,0,0,0,1,0
+cough: chest tightness: dry mouth,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever; cough; fatigue; nausea,1,1,0,0,0,1,0
+fever; cough,1,0,0,0,0,1,0
+fever; fatigue,1,1,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: sputum,1,0,0,0,0,1,0
+nausea: vomiting,0,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever: sore throat,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough: diarrheoa: vomiting,0,0,0,0,1,1,0
+chills: cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough: fever,1,0,0,0,0,1,0
+cough: fatigue: fever,1,1,0,0,0,1,0
+fever: severe pneumonia,1,0,1,0,0,0,0
+eye irritation: fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever: sore throat,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+dyspnea: fever,1,0,0,0,0,0,0
+cough: difficulty breathing: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever: headache: runny nose,1,0,0,1,0,0,0
+cough: runny nose,0,0,0,0,0,1,0
+transient fatigue,0,1,0,0,0,0,0
+fever (38 ¬∞ C),1,0,0,0,0,0,0
+37.1 ¬∞ C: mild coughing,0,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+abdominal pain: pulmonary inflammation,0,0,0,0,0,0,0
+Sore throat,0,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+feeling ill: coughing,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+anorexia: fatigue,0,1,0,0,0,0,0
+abdominal pain: diarrhea: fever: general malaise,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough: fever: malaise,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+poor physical condition,0,0,0,0,0,0,0
+cough: fatigue: fever,1,1,0,0,0,1,0
+cough: shortness of breath,0,0,0,0,0,1,0
+cough: fever,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+yes,0,0,0,0,0,0,0
+fever 38.3,1,0,0,0,0,0,0
+fever (39.5 ‚ÑÉ),1,0,0,0,0,0,0
+fever 37.7‚ÑÉ,1,0,0,0,0,0,0
+fever 37.7‚ÑÉ,1,0,0,0,0,0,0
+fever 37.5‚ÑÉ,1,0,0,0,0,0,0
+anorexia,0,0,0,0,0,0,0
+nausea: cough: pneumonia: fever,1,0,1,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever 38.2 ‚ÑÉ: cough,1,0,0,0,0,1,0
+fever (38 ¬∞ C),1,0,0,0,0,0,0
+fever 37 C,1,0,0,0,0,0,0
+malaise: headache,0,0,0,1,0,0,0
+fever (37 ‚ÑÉ): breathing difficulty,1,0,0,0,0,0,0
+fever (37.5 ‚ÑÉ: then 38 ‚ÑÉ): cough: malaise,1,0,0,0,0,1,0
+sore throat: Cough: fever (37 ‚ÑÉ),1,0,0,0,0,0,0
+difficulty breathing,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: shortness of breath: pneumonia,1,0,1,0,0,0,0
+severe dyspnea,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: cough,1,0,0,0,0,1,0
+nausea,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever; fatigue,1,1,0,0,0,0,0
+chest tightness; fatigue,0,1,0,0,0,0,0
+cough; fever,1,0,0,0,0,1,0
+fever; nasal congestion; runny nose; sore throat; cough,1,0,0,0,0,1,0
+fever 39.3,1,0,0,0,0,0,0
+fever 38,1,0,0,0,0,0,0
+fever 38,1,0,0,0,0,0,0
+fever: cough,1,0,0,0,0,1,0
+no respiratory symptoms: esophageal reflux,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+cough; sputum; fever,1,0,0,0,0,1,0
+dry cough,0,0,0,0,0,1,0
+cough; sore body; cold,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+flu-like symptoms,0,0,0,0,0,0,0
+acute pharyngitis,0,0,0,0,0,0,0
+sore throat,0,0,0,0,0,0,0
+fever: sore throat: mild cough,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: cough,1,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+low fever 37.0 ‚ÑÉ,1,0,0,0,0,0,0
+low fever (37.4 ‚ÑÉ),1,0,0,0,0,0,0
+low fever (37.2 ¬∞ C); cough,1,0,0,0,0,1,0
+fever (39.5 ‚ÑÉ): malaise,1,0,0,0,0,0,0
+sore throat; fever: nasal discharge,1,0,0,0,0,0,0
+fever (37.4 ¬∞ C): pneumonia,1,0,1,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever (37.8 ‚ÑÉ): cough,1,0,0,0,0,1,0
+fever (38-39 ¬∞ C): malaise,1,0,0,0,0,0,0
+fever: cough,1,0,0,0,0,1,0
+fever 38.1 ‚ÑÉ Cough: malaise: anorexia,1,0,0,0,0,0,0
+Discharge: cough: sore throat: chest pain,0,0,0,0,0,1,0
+fever: cough: phlegm: dyspnea,1,0,0,0,0,1,0
+fever: cough: phlegm: dyspnea,1,0,0,0,0,1,0
+fever: cough: phlegm,1,0,0,0,0,1,0
+fever 37.8 ‚ÑÉ : sore throat,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+rever: cough,0,0,0,0,0,1,0
+fever 37.1 ‚ÑÉ : couh,1,0,0,0,0,0,0
+fever 38.3 ‚ÑÉ : cough,1,0,0,0,0,1,0
+malaise: fever (37 ‚ÑÉ); headache: toothache: pneumonia,1,0,1,1,0,0,0
+Sore throat: chills,0,0,0,0,0,0,0
+fever 38,1,0,0,0,0,0,0
+fever 37.5 : headache: malaise,1,0,0,1,0,0,0
+fever: cough: phlegm,1,0,0,0,0,1,0
+Fever: cough: headache,0,0,0,1,0,1,0
+fever 37.2,1,0,0,0,0,0,0
+cough: malaise,0,0,0,0,0,1,0
+sore throat: fever (38-39 ‚ÑÉ),1,0,0,0,0,0,0
+fatigue: fever (38 ‚ÑÉ),1,1,0,0,0,0,0
+fever (38.3 ‚ÑÉ),1,0,0,0,0,0,0
+vomiting: cough: fever (38.2 ‚ÑÉ): sore throat,1,0,0,0,0,1,0
+fever (39 ¬∞ C): joint pain,1,0,0,0,0,0,0
+fever (37.4 ‚ÑÉ): cough,1,0,0,0,0,1,0
+fever (40.3 ‚ÑÉ): Headache: malaise: joint pain,1,0,0,0,0,0,0
+fever (39.9 ‚ÑÉ): cough,1,0,0,0,0,1,0
+fever (39.3 ‚ÑÉ): cough,1,0,0,0,0,1,0
+cough: fever (38.3 ‚ÑÉ): joint pain,1,0,0,0,0,1,0
+Cough: fever (38 ‚ÑÉ),1,0,0,0,0,0,0
+Fever (37.4 ¬∞ C): malaise: sore throa,0,0,0,0,0,0,0
+cough: sore throat,0,0,0,0,0,1,0
+Fever (38 ¬∞ C),0,0,0,0,0,0,0
+Fever (38.1 ¬∞ C): cough: headache.,0,0,0,1,0,1,0
+no serious symptoms,0,0,0,0,0,0,0
+similar to a respiratory infection,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+chills: headache: fatigue,0,1,0,1,0,0,0
+fever,1,0,0,0,0,0,0
+cough: sore throat,0,0,0,0,0,1,0
+cough: phlegm: fever 37 degrees,1,0,0,0,0,1,0
+fever 39.0 ‚ÑÉ,1,0,0,0,0,0,0
+fever (38.0 ‚ÑÉ): Fatigue: difficulty walking,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever (38.0 ‚ÑÉ),1,0,0,0,0,0,0
+chills: fever (38 ‚ÑÉ): malaise,1,0,0,0,0,0,0
+Sputum: cough symptoms: fever (37 ‚ÑÉ): cough: breathing difficulty,1,0,0,0,0,1,0
+fever (37.0 ‚ÑÉ): fever (38.7 ‚ÑÉ),1,0,0,0,0,0,0
+fever (37.5 ‚ÑÉ ÔΩû 38.0 ‚ÑÉ),1,0,0,0,0,0,0
+fever and cough,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever (38 ¬∞ C),1,0,0,0,0,0,0
+fever (38 ¬∞ C),1,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+sore throat,0,0,0,0,0,0,0
+fever (38 ¬∞ C): fatigue,1,1,0,0,0,0,0
+respiratory complaints,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+acute respiratory viral infection (ARVI),0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+fever: sneezing: coughing,1,0,0,0,0,1,0
+mild,0,0,0,0,0,0,0
+fever: chills: muscle: joint pain and cough,1,0,0,0,0,1,0
+mild,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+mild,0,0,0,0,0,0,0
+asymptomatic: afebrile,0,0,0,0,0,0,0
+fever: cough,1,0,0,0,0,1,0
+flu-like symptoms,0,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: discomfort,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever: chills,1,0,0,0,0,0,0
+fever,1,0,0,0,0,0,0
+fever:discmfort,1,0,0,0,0,0,0
+headache,0,0,0,1,0,0,0
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough: fever: bone pain,1,0,0,0,0,1,1
+cough,0,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+cough fever,1,0,0,0,0,1,0
+fever: headache: malaise: sore throat: cough,1,0,0,1,0,1,0
+fever: sore throat: cough: shortness of breath,1,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+cough: sore throat: body aches: fever,1,0,0,0,0,1,0
+dry cough: runny nose: shortness of breath: headache,0,0,0,1,0,1,0
+cough: body aches: chills,0,0,0,0,0,1,0
+cough,0,0,0,0,0,1,0
+fever: runny nose: body pain: diarrhea,1,0,0,0,0,0,0
+cough,0,0,0,0,0,1,0
+fever: cough: nasal congestion,1,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+mild symptoms,0,0,0,0,0,0,0
+cough: fever: shortness of breath,1,0,0,0,0,1,0
+cough: fever: shortness of breath,1,0,0,0,0,1,0
+lethargy; dry cough,0,0,0,0,0,1,0
+fever,1,0,0,0,0,0,0
+fever: nausea: digestive discomfort,1,0,0,0,0,0,0
+aggressive pulmonary symptomatology,0,0,0,0,0,0,0
